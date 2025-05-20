@@ -1,2 +1,2 @@
-# hr_chatbot
-Pembuatan dan Pengembangan Aplikasi Chatbot Berbasis Flask
+# Aplikasi_Chatbot
+### Pembuatan dan Pengembangan Aplikasi Chatbot Berbasis Flask
